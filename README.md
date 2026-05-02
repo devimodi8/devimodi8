@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devi
 
-🚀 **AI/ML Enthusiast | Problem Solver | Tech Explorer**
+🚀 **AI/ML Enthusiast | Problem Solver | Tech Explorer | Agentic AI | DevOps | Generative AI**
 
 💡 I enjoy building intelligent systems that solve real-world problems using data and machine learning.
 🎯 Currently focused on growing into a skilled **AI Engineer** with strong practical knowledge.
@@ -12,7 +12,6 @@
 * 🎓 Background in AI/ML
 * 💡 Curious learner who loves experimenting with new technologies
 * 📈 Improving skills through real-world projects
-* 🎯 Goal: Get placed in a role where I can apply AI/ML practically
 
 ---
 
@@ -32,25 +31,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Devi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=radical)
-
----
-
 ## 🚀 Projects
 
-🔹 **AI Resume Analyzer**
+🔹 **Marketing Content Generator**
 
-> An ML-based system that analyzes resumes and suggests improvements
+> Generative AI based project where marketing professionals can generate conetent like Blog Post , E-mail Campaign , Ads etc .
 
-🔹 **Stock Price Predictor**
+🔹 **Multi-Agent Marketing Conetnt Generator**
 
-> Predicts stock trends using machine learning models
+> Agentic AI based project where Multi-agent gives individual output then Final Output is generated so that Efficiency and accuracy of the system improves .
 
 🔹 **More coming soon...** 🚧
 
@@ -59,6 +48,11 @@
 ## 🌱 Currently Learning
 
 * Deep Learning
+* Agentic AI
+* Machine Learning
+* Artificial Intelligence
+* DevOps
+* Generative AI 
 * Model Deployment (Streamlit)
 * Real-world ML problem solving
 
@@ -66,8 +60,8 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn (add your link)
-* 📧 Email (add your email)
+* 💼 LinkedIn (www.linkedin.com/in/devi-m-1b3769280)
+* 📧 Email (devimodi8078@gmail.com)
 
 ---
 
