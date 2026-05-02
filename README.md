@@ -37,7 +37,7 @@
 
 > Generative AI based project where marketing professionals can generate conetent like Blog Post , E-mail Campaign , Ads etc .
 
-🔹 **Multi-Agent Marketing Conetnt Generator**
+🔹 **Marketing Planning Assitant Agent**
 
 > Agentic AI based project where Multi-agent gives individual output then Final Output is generated so that Efficiency and accuracy of the system improves .
 
